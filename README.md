@@ -1,7 +1,7 @@
 # Hello!
 
 - I'm a backend developer who mainly works in Go
-- My preferred text editor is Vim
+- My preferred text editor is Neovim
 - I absolutely love Docker
 - I'm addicted to caffeine
 - Oh, and I use Arch btw
