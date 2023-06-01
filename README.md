@@ -1,7 +1,8 @@
 # About Me:
 🔭 &nbsp; I’m currently working on my dotfiles<br>
 🌱 &nbsp; I’m currently learning React and AWS<br>
-⚡  &nbsp; Fun fact: I listen to music 24/7<br><br> 
+📝 &nbsp; I use Neovim to write my code<br>
+🎵 &nbsp; I listen to music 24/7<br><br>
 Oh, and I use Arch btw
 <br><br> <br>
 
@@ -12,8 +13,6 @@ Oh, and I use Arch btw
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&color=615749&logoColor=eeeeee) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&color=615749&logoColor=eeeeee) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&color=615749&logoColor=eeeeee) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&color=615749&logoColor=eeeeee) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&color=615749&logoColor=eeeeee) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&color=615749&logoColor=eeeeee) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&color=615749&logoColor=eeeeee)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
